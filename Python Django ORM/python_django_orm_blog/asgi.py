@@ -1,5 +1,5 @@
 """
-ASGI config for blog project.
+ASGI config for blog src.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

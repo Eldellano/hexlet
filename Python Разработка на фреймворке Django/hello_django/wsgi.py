@@ -1,5 +1,5 @@
 """
-WSGI config for hello_django project.
+WSGI config for hello_django src.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
